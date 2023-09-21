@@ -1,0 +1,13 @@
+NightShift:
+
+* DayShift is interactions (conversations) - receive input, react
+
+* NightShift is review, reflect, remember
+
+The 5 R's:
+
+1 Receive: user prompts
+2 React: respond to user
+3 Review: study recent session (offline)
+4 Reflect: sentiment analysis as loss function (was user happy/neutral/frustrated?)
+5 Remember: fine-tune incorporating new data (LORA) - also db? (vector?)
